@@ -1,3 +1,3 @@
 # myproject
 
-##Git使った
+Git使った
